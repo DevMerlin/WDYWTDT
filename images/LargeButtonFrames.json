@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "Large_Button",
+	"frame": {"x":1,"y":1,"w":497,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":497,"h":39},
+	"sourceSize": {"w":497,"h":39}
+},
+{
+	"filename": "Large_Button_Lit",
+	"frame": {"x":1,"y":42,"w":497,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":497,"h":39},
+	"sourceSize": {"w":497,"h":39}
+},
+{
+	"filename": "Large_Button_Pressed",
+	"frame": {"x":1,"y":83,"w":497,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":497,"h":39},
+	"sourceSize": {"w":497,"h":39}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "LargeButtonFrames.png",
+	"format": "RGBA8888",
+	"size": {"w":499,"h":123},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f2f52e04418858f81524c262dd3865e4:472d2a7c65f19498d1a88f3dfd45ac77:80ccb50a111a6f12dcbb5fca75f6a503$"
+}
+}
